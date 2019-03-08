@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Socket_Arduino_Uno)(type KiCad)(uri "$(KIPRJMOD)/Socket_Arduino_Uno.pretty")(options "")(descr ""))
+  (lib (name hfbr)(type KiCad)(uri "$(KIPRJMOD)/models/hfbr-tx-1521z/HFBR1521Z.pretty")(options "")(descr ""))
+)
