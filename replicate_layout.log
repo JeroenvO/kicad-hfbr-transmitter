@@ -1,432 +1,13 @@
-03-07 10:04:22 replicate_layout.action_replicate_layout 294:Action plugin Replicate layout started
-03-07 10:04:22 replicate_layout.action_replicate_layout 328:Preparing replicator with tx-0 as a reference
-03-07 10:04:22 replicate_layout.replicatelayout 128:Initializing replicator object
-03-07 10:04:22 replicate_layout.action_replicate_layout 340:Calculating initial spacing
-03-07 10:04:22 replicate_layout.replicatelayout 198:Calculating spacing
-03-07 10:04:22 replicate_layout.action_replicate_layout 344:Showing dialog
-03-07 10:04:26 replicate_layout.replicatelayout 198:Calculating spacing
-03-07 10:04:40 replicate_layout.replicatelayout 198:Calculating spacing
-03-07 10:04:40 replicate_layout.action_replicate_layout 388:Replicating layout
-03-07 10:04:40 replicate_layout.replicatelayout 991:Replicating layout
-03-07 10:04:40 replicate_layout.replicatelayout 992:Will replicate sheets:
-	[u'5C780125']
-	[u'5C780909']
-	[u'5C7818E7']
-	[u'5C7818EA']
-	[u'5C7818ED']
-	[u'5C7820EA']
-	[u'5C7820ED']
-	[u'5C7820F0']
-	[u'5C7820F3']
-	[u'5C7820F6']
-	[u'5C7820F9']
-	[u'5C7828EA']
-	[u'5C7828ED']
-03-07 10:04:40 replicate_layout.replicatelayout 993:Pivot modules are:
-	tx-0
-	C-0
-	bjt-0
-	R-base-0
-	R-tx-0
-03-07 10:04:40 replicate_layout.replicatelayout 335:Preparing for replication
-03-07 10:04:40 replicate_layout.replicatelayout 667:Replicating modules
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: tx-1
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: C-1
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: bjt-1
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-base-1
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-tx-1
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: tx-2
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: C-2
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: bjt-2
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-base-2
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-tx-2
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: tx-3
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: C-3
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: bjt-3
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-base-3
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-tx-3
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: tx-4
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: C-4
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: bjt-4
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-base-4
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-tx-4
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: tx-5
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: C-5
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: bjt-5
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-base-5
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-tx-5
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: tx-6
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: C-6
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: bjt-6
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-base-6
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-tx-6
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: tx-7
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: C-7
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: bjt-7
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-tx-7
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-base-7
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: tx-8
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: C-8
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: bjt-8
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-tx-8
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-base-8
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: tx-9
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: C-9
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: bjt-9
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-tx-9
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-base-9
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: tx-10
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: C-10
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: bjt-10
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-tx-10
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-base-10
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: tx-11
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: C-11
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: bjt-11
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-tx-11
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-base-11
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: tx-12
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: C-12
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: bjt-12
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-tx-12
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-base-12
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: tx-13
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: C-13
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: bjt-13
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-tx-13
-03-07 10:04:40 replicate_layout.replicatelayout 681:Replicating module: R-base-13
-03-07 10:04:40 replicate_layout.replicatelayout 813:Replicating tracks
-03-07 10:04:40 replicate_layout.replicatelayout 897:Replicating zones
-03-07 10:04:40 replicate_layout.action_replicate_layout 395:Replication complete
-03-07 12:12:27 replicate_layout.action_replicate_layout 294:Action plugin Replicate layout started
-03-07 12:12:27 replicate_layout.action_replicate_layout 328:Preparing replicator with tx-14 as a reference
-03-07 12:12:27 replicate_layout.replicatelayout 128:Initializing replicator object
-03-07 12:12:27 replicate_layout.action_replicate_layout 340:Calculating initial spacing
-03-07 12:12:27 replicate_layout.replicatelayout 198:Calculating spacing
-03-07 12:12:27 replicate_layout.action_replicate_layout 344:Showing dialog
-03-07 12:12:29 replicate_layout.replicatelayout 198:Calculating spacing
-03-07 12:15:30 replicate_layout.action_replicate_layout 294:Action plugin Replicate layout started
-03-07 12:15:30 replicate_layout.action_replicate_layout 328:Preparing replicator with tx-6 as a reference
-03-07 12:15:30 replicate_layout.replicatelayout 128:Initializing replicator object
-03-07 12:15:30 replicate_layout.action_replicate_layout 340:Calculating initial spacing
-03-07 12:15:30 replicate_layout.replicatelayout 198:Calculating spacing
-03-07 12:15:30 replicate_layout.action_replicate_layout 344:Showing dialog
-03-07 12:16:07 replicate_layout.replicatelayout 198:Calculating spacing
-03-07 12:16:07 replicate_layout.action_replicate_layout 388:Replicating layout
-03-07 12:16:07 replicate_layout.replicatelayout 991:Replicating layout
-03-07 12:16:07 replicate_layout.replicatelayout 992:Will replicate sheets:
-	[u'5C7A688C']
-	[u'5C780125']
-	[u'5C780909']
-	[u'5C7818E7']
-	[u'5C7818EA']
-	[u'5C7818ED']
-	[u'5C7820ED']
-	[u'5C7820F0']
-	[u'5C7820F3']
-	[u'5C7820F6']
-	[u'5C7820F9']
-	[u'5C7828EA']
-	[u'5C7828ED']
-	[u'5C837CEE']
-	[u'5C837CF1']
-	[u'5C837CF4']
-	[u'5C837CF7']
-	[u'5C837CFA']
-	[u'5C837CFD']
-	[u'5C837D00']
-	[u'5C837D03']
-03-07 12:16:07 replicate_layout.replicatelayout 993:Pivot modules are:
-	tx-6
-	C-6
-	bjt-6
-	R-base-6
-	R-tx-6
-03-07 12:16:07 replicate_layout.replicatelayout 335:Preparing for replication
-03-07 12:16:07 replicate_layout.replicatelayout 667:Replicating modules
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: tx-0
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: C-0
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: bjt-0
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: R-base-0
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-0
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: tx-1
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: C-1
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: bjt-1
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: R-base-1
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-1
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: tx-2
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: C-2
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: bjt-2
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: R-base-2
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-2
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: tx-3
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: C-3
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: bjt-3
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: R-base-3
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-3
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: tx-4
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: C-4
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: bjt-4
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: R-base-4
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-4
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: tx-5
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: C-5
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: bjt-5
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: R-base-5
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-5
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: tx-7
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: C-7
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: bjt-7
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-7
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: R-base-7
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: tx-8
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: C-8
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: bjt-8
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-8
-03-07 12:16:07 replicate_layout.replicatelayout 681:Replicating module: R-base-8
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: tx-9
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: C-9
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: bjt-9
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-9
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-base-9
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: tx-10
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: C-10
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: bjt-10
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-10
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-base-10
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: tx-11
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: C-11
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: bjt-11
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-11
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-base-11
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: tx-12
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: C-12
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: bjt-12
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-12
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-base-12
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: tx-13
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: C-13
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: bjt-13
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-13
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-base-13
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: C-14
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: bjt-14
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-14
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-base-14
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: tx-14
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: C-15
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: bjt-15
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-15
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-base-15
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: tx-15
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: C-16
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: bjt-16
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-base-16
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-16
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: tx-16
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: C-17
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: bjt-17
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-17
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-base-17
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: tx-17
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: C-18
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: bjt-18
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-18
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-base-18
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: tx-18
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: C-19
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: bjt-19
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-19
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-base-19
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: tx-19
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: C-20
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: bjt-20
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-20
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-base-20
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: tx-20
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: C-21
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: bjt-21
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-21
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: R-base-21
-03-07 12:16:08 replicate_layout.replicatelayout 681:Replicating module: tx-21
-03-07 12:16:08 replicate_layout.replicatelayout 813:Replicating tracks
-03-07 12:16:08 replicate_layout.replicatelayout 897:Replicating zones
-03-07 12:16:08 replicate_layout.replicatelayout 781:Replicating text
-03-07 12:16:08 replicate_layout.action_replicate_layout 395:Replication complete
-03-07 12:18:06 replicate_layout.action_replicate_layout 294:Action plugin Replicate layout started
-03-07 12:18:06 replicate_layout.action_replicate_layout 328:Preparing replicator with C-14 as a reference
-03-07 12:18:06 replicate_layout.replicatelayout 128:Initializing replicator object
-03-07 12:18:06 replicate_layout.action_replicate_layout 340:Calculating initial spacing
-03-07 12:18:06 replicate_layout.replicatelayout 198:Calculating spacing
-03-07 12:18:06 replicate_layout.action_replicate_layout 344:Showing dialog
-03-07 12:18:10 replicate_layout.replicatelayout 198:Calculating spacing
-03-07 12:19:07 replicate_layout.replicatelayout 198:Calculating spacing
-03-07 12:19:07 replicate_layout.action_replicate_layout 388:Replicating layout
-03-07 12:19:07 replicate_layout.replicatelayout 991:Replicating layout
-03-07 12:19:07 replicate_layout.replicatelayout 992:Will replicate sheets:
-	[u'5C7A688C']
-	[u'5C780125']
-	[u'5C780909']
-	[u'5C7818E7']
-	[u'5C7818EA']
-	[u'5C7818ED']
-	[u'5C7820EA']
-	[u'5C7820ED']
-	[u'5C7820F0']
-	[u'5C7820F3']
-	[u'5C7820F6']
-	[u'5C7820F9']
-	[u'5C7828EA']
-	[u'5C7828ED']
-	[u'5C837CF1']
-	[u'5C837CF4']
-	[u'5C837CF7']
-	[u'5C837CFA']
-	[u'5C837CFD']
-	[u'5C837D00']
-	[u'5C837D03']
-03-07 12:19:07 replicate_layout.replicatelayout 993:Pivot modules are:
-	C-14
-	bjt-14
-	R-tx-14
-	R-base-14
-	tx-14
-03-07 12:19:07 replicate_layout.replicatelayout 335:Preparing for replication
-03-07 12:19:07 replicate_layout.replicatelayout 667:Replicating modules
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-0
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-0
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-0
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-0
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-0
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-1
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-1
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-1
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-1
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-1
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-2
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-2
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-2
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-2
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-2
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-3
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-3
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-3
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-3
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-3
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-4
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-4
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-4
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-4
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-4
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-5
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-5
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-5
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-5
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-5
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-6
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-6
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-6
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-6
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-6
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-7
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-7
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-7
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-7
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-7
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-8
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-8
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-8
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-8
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-8
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-9
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-9
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-9
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-9
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-9
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-10
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-10
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-10
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-10
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-10
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-11
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-11
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-11
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-11
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-11
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-12
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-12
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-12
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-12
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-12
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-13
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-13
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-13
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-13
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-13
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-15
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-15
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-15
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-15
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-15
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-16
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-16
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-16
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-16
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-16
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: C-17
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: bjt-17
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-tx-17
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: R-base-17
-03-07 12:19:07 replicate_layout.replicatelayout 681:Replicating module: tx-17
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: C-18
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: bjt-18
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-18
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: R-base-18
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: tx-18
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: C-19
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: bjt-19
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-19
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: R-base-19
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: tx-19
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: C-20
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: bjt-20
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-20
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: R-base-20
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: tx-20
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: C-21
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: bjt-21
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: R-tx-21
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: R-base-21
-03-07 12:19:08 replicate_layout.replicatelayout 681:Replicating module: tx-21
-03-07 12:19:08 replicate_layout.replicatelayout 813:Replicating tracks
-03-07 12:19:08 replicate_layout.replicatelayout 897:Replicating zones
-03-07 12:19:08 replicate_layout.replicatelayout 781:Replicating text
-03-07 12:19:08 replicate_layout.action_replicate_layout 395:Replication complete
-03-07 12:42:21 replicate_layout.action_replicate_layout 294:Action plugin Replicate layout started
-03-07 12:42:21 replicate_layout.action_replicate_layout 328:Preparing replicator with C-0 as a reference
-03-07 12:42:21 replicate_layout.replicatelayout 128:Initializing replicator object
-03-07 12:42:21 replicate_layout.action_replicate_layout 340:Calculating initial spacing
-03-07 12:42:21 replicate_layout.replicatelayout 198:Calculating spacing
-03-07 12:42:21 replicate_layout.action_replicate_layout 344:Showing dialog
-03-07 12:42:24 replicate_layout.replicatelayout 198:Calculating spacing
-03-07 12:43:34 replicate_layout.action_replicate_layout 294:Action plugin Replicate layout started
-03-07 12:43:34 replicate_layout.action_replicate_layout 328:Preparing replicator with R-tx-0 as a reference
-03-07 12:43:34 replicate_layout.replicatelayout 128:Initializing replicator object
-03-07 12:43:34 replicate_layout.action_replicate_layout 340:Calculating initial spacing
-03-07 12:43:34 replicate_layout.replicatelayout 198:Calculating spacing
-03-07 12:43:34 replicate_layout.action_replicate_layout 344:Showing dialog
-03-07 12:43:35 replicate_layout.replicatelayout 198:Calculating spacing
-03-07 12:44:08 replicate_layout.action_replicate_layout 294:Action plugin Replicate layout started
-03-07 12:44:08 replicate_layout.action_replicate_layout 328:Preparing replicator with tx-0 as a reference
-03-07 12:44:08 replicate_layout.replicatelayout 128:Initializing replicator object
-03-07 12:44:08 replicate_layout.action_replicate_layout 340:Calculating initial spacing
-03-07 12:44:08 replicate_layout.replicatelayout 198:Calculating spacing
-03-07 12:44:08 replicate_layout.action_replicate_layout 344:Showing dialog
-03-07 12:44:21 replicate_layout.replicatelayout 198:Calculating spacing
-03-07 12:44:21 replicate_layout.action_replicate_layout 388:Replicating layout
-03-07 12:44:21 replicate_layout.replicatelayout 991:Replicating layout
-03-07 12:44:21 replicate_layout.replicatelayout 992:Will replicate sheets:
-	[u'5C780125']
+03-28 16:22:32 replicate_layout.action_replicate_layout 294:Action plugin Replicate layout started
+03-28 16:22:32 replicate_layout.action_replicate_layout 328:Preparing replicator with tx-1 as a reference
+03-28 16:22:32 replicate_layout.replicatelayout 128:Initializing replicator object
+03-28 16:22:32 replicate_layout.action_replicate_layout 340:Calculating initial spacing
+03-28 16:22:32 replicate_layout.replicatelayout 198:Calculating spacing
+03-28 16:22:32 replicate_layout.action_replicate_layout 344:Showing dialog
+03-28 16:23:14 replicate_layout.replicatelayout 198:Calculating spacing
+03-28 16:23:14 replicate_layout.action_replicate_layout 388:Replicating layout
+03-28 16:23:14 replicate_layout.replicatelayout 991:Replicating layout
+03-28 16:23:14 replicate_layout.replicatelayout 992:Will replicate sheets:
 	[u'5C780909']
 	[u'5C7818E7']
 	[u'5C7818EA']
@@ -446,257 +27,110 @@
 	[u'5C837CFA']
 	[u'5C837CFD']
 	[u'5C837D00']
-	[u'5C837D03']
-03-07 12:44:21 replicate_layout.replicatelayout 993:Pivot modules are:
-	tx-0
-	C-0
-	bjt-0
-	R-base-0
-	R-tx-0
-03-07 12:44:21 replicate_layout.replicatelayout 335:Preparing for replication
-03-07 12:44:21 replicate_layout.replicatelayout 667:Replicating modules
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-1
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-1
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-1
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-1
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-1
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-2
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-2
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-2
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-2
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-2
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-3
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-3
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-3
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-3
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-3
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-4
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-4
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-4
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-4
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-4
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-5
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-5
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-5
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-5
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-5
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-6
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-6
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-6
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-6
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-6
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-7
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-7
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-7
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-7
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-7
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-8
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-8
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-8
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-8
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-8
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-9
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-9
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-9
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-9
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-9
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-10
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-10
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-10
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-10
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-10
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-11
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-11
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-11
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-11
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-11
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-12
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-12
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-12
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-12
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-12
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-13
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-13
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-13
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-13
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-13
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-14
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-14
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-14
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-14
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-14
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-15
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-15
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-15
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-15
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-15
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-16
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-16
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-16
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-16
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-16
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-17
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-17
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-17
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-17
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-17
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-18
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-18
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-18
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-18
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-18
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-19
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-19
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-19
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-19
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-19
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-20
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-20
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-20
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-20
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-20
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: C-21
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: bjt-21
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-tx-21
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: R-base-21
-03-07 12:44:21 replicate_layout.replicatelayout 681:Replicating module: tx-21
-03-07 12:44:21 replicate_layout.replicatelayout 813:Replicating tracks
-03-07 12:44:21 replicate_layout.replicatelayout 897:Replicating zones
-03-07 12:44:21 replicate_layout.replicatelayout 781:Replicating text
-03-07 12:44:21 replicate_layout.action_replicate_layout 395:Replication complete
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:+
-03-07 14:05:06 STDOUT 410:66 teardrops inserted
-03-07 14:07:11 STDOUT 410:66 teardrops removed
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:+
-03-07 14:07:36 STDOUT 410:66 teardrops inserted
-03-07 14:08:26 STDOUT 410:66 teardrops removed
+03-28 16:23:14 replicate_layout.replicatelayout 993:Pivot modules are:
+	tx-1
+	C-1
+	bjt-1
+	R-base-1
+	R-tx-1
+03-28 16:23:14 replicate_layout.replicatelayout 335:Preparing for replication
+03-28 16:23:14 replicate_layout.replicatelayout 667:Replicating modules
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: tx-2
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: C-2
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: bjt-2
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-base-2
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-tx-2
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: tx-3
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: C-3
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: bjt-3
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-base-3
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-tx-3
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: tx-4
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: C-4
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: bjt-4
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-base-4
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-tx-4
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: tx-5
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: C-5
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: bjt-5
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-base-5
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-tx-5
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: tx-6
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: C-6
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: bjt-6
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-base-6
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-tx-6
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: tx-7
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: C-7
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: bjt-7
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-tx-7
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-base-7
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: tx-8
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: C-8
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: bjt-8
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-tx-8
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-base-8
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: tx-9
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: C-9
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: bjt-9
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-tx-9
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-base-9
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: tx-10
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: C-10
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: bjt-10
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-tx-10
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-base-10
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: tx-11
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: C-11
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: bjt-11
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-tx-11
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-base-11
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: tx-12
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: C-12
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: bjt-12
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-tx-12
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-base-12
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: tx-13
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: C-13
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: bjt-13
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-tx-13
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-base-13
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: C-14
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: bjt-14
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-tx-14
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: R-base-14
+03-28 16:23:14 replicate_layout.replicatelayout 681:Replicating module: tx-14
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: C-15
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: bjt-15
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: R-tx-15
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: R-base-15
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: tx-15
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: C-16
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: bjt-16
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: R-base-16
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: R-tx-16
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: tx-16
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: tx-17
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: C-17
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: bjt-17
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: R-tx-17
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: R-base-17
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: C-18
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: bjt-18
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: R-tx-18
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: R-base-18
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: tx-18
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: C-19
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: bjt-19
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: R-tx-19
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: R-base-19
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: tx-19
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: C-20
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: bjt-20
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: R-tx-20
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: R-base-20
+03-28 16:23:15 replicate_layout.replicatelayout 681:Replicating module: tx-20
+03-28 16:23:15 replicate_layout.replicatelayout 813:Replicating tracks
+03-28 16:23:15 replicate_layout.replicatelayout 897:Replicating zones
+03-28 16:23:15 replicate_layout.replicatelayout 781:Replicating text
+03-28 16:23:15 replicate_layout.action_replicate_layout 395:Replication complete

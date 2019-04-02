@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 23 23
+Sheet 21 21
 Title ""
 Date ""
 Rev ""
@@ -115,7 +115,7 @@ AR Path="/5C837CFD/5C787FC7" Ref="R-tx-19"  Part="1"
 AR Path="/5C837D00/5C787FC7" Ref="R-tx-20"  Part="1" 
 AR Path="/5C837D03/5C787FC7" Ref="R-tx-21"  Part="1" 
 AR Path="/5C837D06/5C787FC7" Ref="R-tx-?"  Part="1" 
-F 0 "R-tx-21" H 5870 5096 50  0000 L CNN
+F 0 "R-tx-1" H 5870 5096 50  0000 L CNN
 F 1 "50" H 5870 5005 50  0000 L CNN
 F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 5730 5050 50  0001 C CNN
 F 3 "~" H 5800 5050 50  0001 C CNN
@@ -223,125 +223,13 @@ AR Path="/5C837CFD/5C788046" Ref="R-base-19"  Part="1"
 AR Path="/5C837D00/5C788046" Ref="R-base-20"  Part="1" 
 AR Path="/5C837D03/5C788046" Ref="R-base-21"  Part="1" 
 AR Path="/5C837D06/5C788046" Ref="R-base-?"  Part="1" 
-F 0 "R-base-21" H 8320 5546 50  0000 L CNN
+F 0 "R-base-1" H 8320 5546 50  0000 L CNN
 F 1 "2k" H 8320 5455 50  0000 L CNN
 F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 8180 5500 50  0001 C CNN
 F 3 "~" H 8250 5500 50  0001 C CNN
 	1    8250 5500
 	0    1    1    0   
 $EndComp
-$Comp
-L Transistor_BJT:BUT11A bjt-0
-U 1 1 5C78851A
-P 8750 5500
-AR Path="/5C77D64D/5C78851A" Ref="bjt-0"  Part="1" 
-AR Path="/5C78274F/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C782F40/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C782F43/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C783742/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C783745/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C783748/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C78374B/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C783FDE/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C783FE1/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C783FE4/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C783FE7/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C783FEA/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C783FED/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C783FF0/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C783FF3/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C78FA89/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C784E83/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C786053/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C787223/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C7883F3/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C7895CB/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C78A79B/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C78B96B/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C78CB3B/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C78DD0B/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C78EEDB/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C7900AB/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C79128B/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C79245B/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C794AFF/5C78851A" Ref="bjt-13"  Part="1" 
-AR Path="/5C795CCF/5C78851A" Ref="bjt-12"  Part="1" 
-AR Path="/5C796E9F/5C78851A" Ref="bjt-11"  Part="1" 
-AR Path="/5C79806F/5C78851A" Ref="bjt-10"  Part="1" 
-AR Path="/5C79923F/5C78851A" Ref="bjt-9"  Part="1" 
-AR Path="/5C79A40F/5C78851A" Ref="bjt-8"  Part="1" 
-AR Path="/5C79B5DF/5C78851A" Ref="bjt-7"  Part="1" 
-AR Path="/5C79C7AF/5C78851A" Ref="bjt-6"  Part="1" 
-AR Path="/5C79D97F/5C78851A" Ref="bjt-5"  Part="1" 
-AR Path="/5C79EB4F/5C78851A" Ref="bjt-4"  Part="1" 
-AR Path="/5C79FD1F/5C78851A" Ref="bjt-3"  Part="1" 
-AR Path="/5C7A0EEF/5C78851A" Ref="bjt-2"  Part="1" 
-AR Path="/5C7A20BF/5C78851A" Ref="bjt-1"  Part="1" 
-AR Path="/5C7B3A8D/5C78851A" Ref="bjt-1"  Part="1" 
-AR Path="/5C7B4BAA/5C78851A" Ref="bjt-2"  Part="1" 
-AR Path="/5C7B5CC7/5C78851A" Ref="bjt-3"  Part="1" 
-AR Path="/5C7B6DE4/5C78851A" Ref="bjt-4"  Part="1" 
-AR Path="/5C7B7F01/5C78851A" Ref="bjt-5"  Part="1" 
-AR Path="/5C7B901E/5C78851A" Ref="bjt-6"  Part="1" 
-AR Path="/5C7BA13B/5C78851A" Ref="bjt-7"  Part="1" 
-AR Path="/5C7BB258/5C78851A" Ref="bjt-8"  Part="1" 
-AR Path="/5C7BC375/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C7BD49A/5C78851A" Ref="bjt-9"  Part="1" 
-AR Path="/5C7BE5B7/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C7BF6DC/5C78851A" Ref="bjt-10"  Part="1" 
-AR Path="/5C7C07F9/5C78851A" Ref="bjt-11"  Part="1" 
-AR Path="/5C7C1916/5C78851A" Ref="bjt-12"  Part="1" 
-AR Path="/5C7C2A33/5C78851A" Ref="bjt-13"  Part="1" 
-AR Path="/5C7828D4/5C78851A" Ref="bjt-0"  Part="1" 
-AR Path="/5C78C710/5C78851A" Ref="bjt-1"  Part="1" 
-AR Path="/5C78CD84/5C78851A" Ref="bjt-2"  Part="1" 
-AR Path="/5C78CD87/5C78851A" Ref="bjt-3"  Part="1" 
-AR Path="/5C78D411/5C78851A" Ref="bjt-4"  Part="1" 
-AR Path="/5C78D414/5C78851A" Ref="bjt-5"  Part="1" 
-AR Path="/5C78D417/5C78851A" Ref="bjt-6"  Part="1" 
-AR Path="/5C78D41A/5C78851A" Ref="bjt-7"  Part="1" 
-AR Path="/5C78E123/5C78851A" Ref="bjt-8"  Part="1" 
-AR Path="/5C78E126/5C78851A" Ref="bjt-9"  Part="1" 
-AR Path="/5C78E129/5C78851A" Ref="bjt-10"  Part="1" 
-AR Path="/5C78E12C/5C78851A" Ref="bjt-11"  Part="1" 
-AR Path="/5C78E12F/5C78851A" Ref="bjt-12"  Part="1" 
-AR Path="/5C78E132/5C78851A" Ref="bjt-13"  Part="1" 
-AR Path="/5C78E135/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C78E138/5C78851A" Ref="bjt-?"  Part="1" 
-AR Path="/5C7A688C/5C78851A" Ref="bjt-0"  Part="1" 
-AR Path="/5C780125/5C78851A" Ref="bjt-1"  Part="1" 
-AR Path="/5C780909/5C78851A" Ref="bjt-2"  Part="1" 
-AR Path="/5C7818E7/5C78851A" Ref="bjt-3"  Part="1" 
-AR Path="/5C7818EA/5C78851A" Ref="bjt-4"  Part="1" 
-AR Path="/5C7818ED/5C78851A" Ref="bjt-5"  Part="1" 
-AR Path="/5C7820EA/5C78851A" Ref="bjt-6"  Part="1" 
-AR Path="/5C7820ED/5C78851A" Ref="bjt-7"  Part="1" 
-AR Path="/5C7820F0/5C78851A" Ref="bjt-8"  Part="1" 
-AR Path="/5C7820F3/5C78851A" Ref="bjt-9"  Part="1" 
-AR Path="/5C7820F6/5C78851A" Ref="bjt-10"  Part="1" 
-AR Path="/5C7820F9/5C78851A" Ref="bjt-11"  Part="1" 
-AR Path="/5C7828EA/5C78851A" Ref="bjt-12"  Part="1" 
-AR Path="/5C7828ED/5C78851A" Ref="bjt-13"  Part="1" 
-AR Path="/5C837CEE/5C78851A" Ref="bjt-14"  Part="1" 
-AR Path="/5C837CF1/5C78851A" Ref="bjt-15"  Part="1" 
-AR Path="/5C837CF4/5C78851A" Ref="bjt-16"  Part="1" 
-AR Path="/5C837CF7/5C78851A" Ref="bjt-17"  Part="1" 
-AR Path="/5C837CFA/5C78851A" Ref="bjt-18"  Part="1" 
-AR Path="/5C837CFD/5C78851A" Ref="bjt-19"  Part="1" 
-AR Path="/5C837D00/5C78851A" Ref="bjt-20"  Part="1" 
-AR Path="/5C837D03/5C78851A" Ref="bjt-21"  Part="1" 
-AR Path="/5C837D06/5C78851A" Ref="bjt-?"  Part="1" 
-F 0 "bjt-21" H 8942 5546 50  0000 L CNN
-F 1 "BUT11A" H 8942 5455 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-343_SC-70-4_Handsoldering" H 8950 5425 50  0001 L CIN
-F 3 "http://www.fairchildsemi.com/ds/BU/BUT11.pdf" H 8750 5500 50  0001 L CNN
-	1    8750 5500
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	8400 5500 8550 5500
-Wire Wire Line
-	8850 5700 8850 5900
 $Comp
 L HFBR-1521Z:HFBR-1521Z tx-0
 U 1 1 5C7886FC
@@ -444,7 +332,7 @@ AR Path="/5C837CFD/5C7886FC" Ref="tx-19"  Part="1"
 AR Path="/5C837D00/5C7886FC" Ref="tx-20"  Part="1" 
 AR Path="/5C837D03/5C7886FC" Ref="tx-21"  Part="1" 
 AR Path="/5C837D06/5C7886FC" Ref="tx-?"  Part="1" 
-F 0 "tx-21" H 7050 5315 50  0000 C CNN
+F 0 "tx-1" H 7050 5315 50  0000 C CNN
 F 1 "HFBR-1521Z" H 7050 5224 50  0000 C CNN
 F 2 "hfbr:HFBR1521Z" H 7600 5150 50  0001 L CNN
 F 3 "https://docs.broadcom.com/docs/AV02-1501EN" H 7600 5050 50  0001 L CNN
@@ -459,8 +347,6 @@ F 9 "HFBR-1521Z" H 7600 4450 50  0001 L CNN "Manufacturer_Part_Number"
 $EndComp
 Wire Wire Line
 	4800 5050 5350 5050
-Wire Wire Line
-	8850 5050 8850 5300
 Text GLabel 4800 5050 0    50   Input ~ 0
 +5V
 Text HLabel 7250 5500 0    50   Input ~ 0
@@ -539,7 +425,7 @@ AR Path="/5C837CFD/5C7B1D81" Ref="#PWR043"  Part="1"
 AR Path="/5C837D00/5C7B1D81" Ref="#PWR045"  Part="1" 
 AR Path="/5C837D03/5C7B1D81" Ref="#PWR047"  Part="1" 
 AR Path="/5C837D06/5C7B1D81" Ref="#PWR?"  Part="1" 
-F 0 "#PWR047" H 8850 5650 50  0001 C CNN
+F 0 "#PWR07" H 8850 5650 50  0001 C CNN
 F 1 "GND" H 8855 5727 50  0000 C CNN
 F 2 "" H 8850 5900 50  0001 C CNN
 F 3 "" H 8850 5900 50  0001 C CNN
@@ -618,7 +504,7 @@ AR Path="/5C837CFD/5C7B1FCF" Ref="C-19"  Part="1"
 AR Path="/5C837D00/5C7B1FCF" Ref="C-20"  Part="1" 
 AR Path="/5C837D03/5C7B1FCF" Ref="C-21"  Part="1" 
 AR Path="/5C837D06/5C7B1FCF" Ref="C-?"  Part="1" 
-F 0 "C-21" H 5465 5396 50  0000 L CNN
+F 0 "C-1" H 5465 5396 50  0000 L CNN
 F 1 "C" H 5465 5305 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 5388 5200 50  0001 C CNN
 F 3 "~" H 5350 5350 50  0001 C CNN
@@ -699,7 +585,7 @@ AR Path="/5C837CFD/5C78A8E4" Ref="#PWR042"  Part="1"
 AR Path="/5C837D00/5C78A8E4" Ref="#PWR044"  Part="1" 
 AR Path="/5C837D03/5C78A8E4" Ref="#PWR046"  Part="1" 
 AR Path="/5C837D06/5C78A8E4" Ref="#PWR?"  Part="1" 
-F 0 "#PWR046" H 5350 5450 50  0001 C CNN
+F 0 "#PWR06" H 5350 5450 50  0001 C CNN
 F 1 "GND" H 5355 5527 50  0000 C CNN
 F 2 "" H 5350 5700 50  0001 C CNN
 F 3 "" H 5350 5700 50  0001 C CNN
@@ -719,4 +605,54 @@ NoConn ~ 7750 5150
 NoConn ~ 7750 5250
 Wire Wire Line
 	7250 5500 8100 5500
+$Comp
+L Connector:Conn_01x04_Female bjt-13
+U 1 1 5C87F40F
+P 9200 5450
+AR Path="/5C7828ED/5C87F40F" Ref="bjt-13"  Part="1" 
+AR Path="/5C780125/5C87F40F" Ref="bjt-1"  Part="1" 
+AR Path="/5C780909/5C87F40F" Ref="bjt-2"  Part="1" 
+AR Path="/5C7818E7/5C87F40F" Ref="bjt-3"  Part="1" 
+AR Path="/5C7818EA/5C87F40F" Ref="bjt-4"  Part="1" 
+AR Path="/5C7818ED/5C87F40F" Ref="bjt-5"  Part="1" 
+AR Path="/5C7820EA/5C87F40F" Ref="bjt-6"  Part="1" 
+AR Path="/5C7820ED/5C87F40F" Ref="bjt-7"  Part="1" 
+AR Path="/5C7820F0/5C87F40F" Ref="bjt-8"  Part="1" 
+AR Path="/5C7820F3/5C87F40F" Ref="bjt-9"  Part="1" 
+AR Path="/5C7820F6/5C87F40F" Ref="bjt-10"  Part="1" 
+AR Path="/5C7820F9/5C87F40F" Ref="bjt-11"  Part="1" 
+AR Path="/5C7828EA/5C87F40F" Ref="bjt-12"  Part="1" 
+AR Path="/5C837CEE/5C87F40F" Ref="bjt-14"  Part="1" 
+AR Path="/5C837CF1/5C87F40F" Ref="bjt-15"  Part="1" 
+AR Path="/5C837CF4/5C87F40F" Ref="bjt-16"  Part="1" 
+AR Path="/5C837CF7/5C87F40F" Ref="bjt-17"  Part="1" 
+AR Path="/5C837CFA/5C87F40F" Ref="bjt-18"  Part="1" 
+AR Path="/5C837CFD/5C87F40F" Ref="bjt-19"  Part="1" 
+AR Path="/5C837D00/5C87F40F" Ref="bjt-20"  Part="1" 
+F 0 "bjt-1" H 9228 5426 50  0000 L CNN
+F 1 "MCH4020-RF" H 9228 5335 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-343_SC-70-4_Handsoldering" H 9200 5450 50  0001 C CNN
+F 3 "~" H 9200 5450 50  0001 C CNN
+	1    9200 5450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8850 5350 9000 5350
+Wire Wire Line
+	8850 5050 8850 5350
+Wire Wire Line
+	9000 5450 8850 5450
+Wire Wire Line
+	8850 5450 8850 5650
+Wire Wire Line
+	9000 5650 8850 5650
+Connection ~ 8850 5650
+Wire Wire Line
+	8850 5650 8850 5900
+Wire Wire Line
+	9000 5550 8800 5550
+Wire Wire Line
+	8800 5550 8800 5500
+Wire Wire Line
+	8400 5500 8800 5500
 $EndSCHEMATC
